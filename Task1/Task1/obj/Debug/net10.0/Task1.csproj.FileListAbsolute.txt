@@ -1,0 +1,14 @@
+O:\.NET\Task1\Task1\bin\Debug\net10.0\Task1.exe
+O:\.NET\Task1\Task1\bin\Debug\net10.0\Task1.deps.json
+O:\.NET\Task1\Task1\bin\Debug\net10.0\Task1.runtimeconfig.json
+O:\.NET\Task1\Task1\bin\Debug\net10.0\Task1.dll
+O:\.NET\Task1\Task1\bin\Debug\net10.0\Task1.pdb
+O:\.NET\Task1\Task1\obj\Debug\net10.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+O:\.NET\Task1\Task1\obj\Debug\net10.0\Task1.AssemblyInfoInputs.cache
+O:\.NET\Task1\Task1\obj\Debug\net10.0\Task1.AssemblyInfo.cs
+O:\.NET\Task1\Task1\obj\Debug\net10.0\Task1.csproj.CoreCompileInputs.cache
+O:\.NET\Task1\Task1\obj\Debug\net10.0\Task1.dll
+O:\.NET\Task1\Task1\obj\Debug\net10.0\refint\Task1.dll
+O:\.NET\Task1\Task1\obj\Debug\net10.0\Task1.pdb
+O:\.NET\Task1\Task1\obj\Debug\net10.0\Task1.genruntimeconfig.cache
+O:\.NET\Task1\Task1\obj\Debug\net10.0\ref\Task1.dll

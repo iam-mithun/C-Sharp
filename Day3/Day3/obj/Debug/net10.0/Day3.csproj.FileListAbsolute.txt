@@ -1,0 +1,14 @@
+O:\.NET\Day3\Day3\bin\Debug\net10.0\Day3.exe
+O:\.NET\Day3\Day3\bin\Debug\net10.0\Day3.deps.json
+O:\.NET\Day3\Day3\bin\Debug\net10.0\Day3.runtimeconfig.json
+O:\.NET\Day3\Day3\bin\Debug\net10.0\Day3.dll
+O:\.NET\Day3\Day3\bin\Debug\net10.0\Day3.pdb
+O:\.NET\Day3\Day3\obj\Debug\net10.0\Day3.GeneratedMSBuildEditorConfig.editorconfig
+O:\.NET\Day3\Day3\obj\Debug\net10.0\Day3.AssemblyInfoInputs.cache
+O:\.NET\Day3\Day3\obj\Debug\net10.0\Day3.AssemblyInfo.cs
+O:\.NET\Day3\Day3\obj\Debug\net10.0\Day3.csproj.CoreCompileInputs.cache
+O:\.NET\Day3\Day3\obj\Debug\net10.0\Day3.dll
+O:\.NET\Day3\Day3\obj\Debug\net10.0\refint\Day3.dll
+O:\.NET\Day3\Day3\obj\Debug\net10.0\Day3.pdb
+O:\.NET\Day3\Day3\obj\Debug\net10.0\Day3.genruntimeconfig.cache
+O:\.NET\Day3\Day3\obj\Debug\net10.0\ref\Day3.dll

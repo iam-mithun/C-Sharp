@@ -1,0 +1,28 @@
+O:\.NET\Task2\Task2\bin\Debug\net10.0\Task2.exe
+O:\.NET\Task2\Task2\bin\Debug\net10.0\Task2.deps.json
+O:\.NET\Task2\Task2\bin\Debug\net10.0\Task2.runtimeconfig.json
+O:\.NET\Task2\Task2\bin\Debug\net10.0\Task2.dll
+O:\.NET\Task2\Task2\bin\Debug\net10.0\Task2.pdb
+O:\.NET\Task2\Task2\obj\Debug\net10.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+O:\.NET\Task2\Task2\obj\Debug\net10.0\Task2.AssemblyInfoInputs.cache
+O:\.NET\Task2\Task2\obj\Debug\net10.0\Task2.AssemblyInfo.cs
+O:\.NET\Task2\Task2\obj\Debug\net10.0\Task2.csproj.CoreCompileInputs.cache
+O:\.NET\Task2\Task2\obj\Debug\net10.0\Task2.dll
+O:\.NET\Task2\Task2\obj\Debug\net10.0\refint\Task2.dll
+O:\.NET\Task2\Task2\obj\Debug\net10.0\Task2.pdb
+O:\.NET\Task2\Task2\obj\Debug\net10.0\Task2.genruntimeconfig.cache
+O:\.NET\Task2\Task2\obj\Debug\net10.0\ref\Task2.dll
+O:\Placement\C - Sharp\Task2\Task2\bin\Debug\net10.0\Task2.exe
+O:\Placement\C - Sharp\Task2\Task2\bin\Debug\net10.0\Task2.deps.json
+O:\Placement\C - Sharp\Task2\Task2\bin\Debug\net10.0\Task2.runtimeconfig.json
+O:\Placement\C - Sharp\Task2\Task2\bin\Debug\net10.0\Task2.dll
+O:\Placement\C - Sharp\Task2\Task2\bin\Debug\net10.0\Task2.pdb
+O:\Placement\C - Sharp\Task2\Task2\obj\Debug\net10.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+O:\Placement\C - Sharp\Task2\Task2\obj\Debug\net10.0\Task2.AssemblyInfoInputs.cache
+O:\Placement\C - Sharp\Task2\Task2\obj\Debug\net10.0\Task2.AssemblyInfo.cs
+O:\Placement\C - Sharp\Task2\Task2\obj\Debug\net10.0\Task2.csproj.CoreCompileInputs.cache
+O:\Placement\C - Sharp\Task2\Task2\obj\Debug\net10.0\Task2.dll
+O:\Placement\C - Sharp\Task2\Task2\obj\Debug\net10.0\refint\Task2.dll
+O:\Placement\C - Sharp\Task2\Task2\obj\Debug\net10.0\Task2.pdb
+O:\Placement\C - Sharp\Task2\Task2\obj\Debug\net10.0\Task2.genruntimeconfig.cache
+O:\Placement\C - Sharp\Task2\Task2\obj\Debug\net10.0\ref\Task2.dll
