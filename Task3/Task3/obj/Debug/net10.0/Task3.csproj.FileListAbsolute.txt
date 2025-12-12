@@ -1,0 +1,15 @@
+O:\Placement\C - Sharp\Task3\Task3\obj\Debug\net10.0\Task3.GeneratedMSBuildEditorConfig.editorconfig
+O:\Placement\C - Sharp\Task3\Task3\obj\Debug\net10.0\Task3.AssemblyInfoInputs.cache
+O:\Placement\C - Sharp\Task3\Task3\obj\Debug\net10.0\Task3.AssemblyInfo.cs
+O:\Placement\C - Sharp\Task3\Task3\obj\Debug\net10.0\Task3.csproj.CoreCompileInputs.cache
+O:\Placement\C - Sharp\Task3\Task3\obj\Debug\net10.0\Task3.sourcelink.json
+O:\Placement\C - Sharp\Task3\Task3\bin\Debug\net10.0\Task3.exe
+O:\Placement\C - Sharp\Task3\Task3\bin\Debug\net10.0\Task3.deps.json
+O:\Placement\C - Sharp\Task3\Task3\bin\Debug\net10.0\Task3.runtimeconfig.json
+O:\Placement\C - Sharp\Task3\Task3\bin\Debug\net10.0\Task3.dll
+O:\Placement\C - Sharp\Task3\Task3\bin\Debug\net10.0\Task3.pdb
+O:\Placement\C - Sharp\Task3\Task3\obj\Debug\net10.0\Task3.dll
+O:\Placement\C - Sharp\Task3\Task3\obj\Debug\net10.0\refint\Task3.dll
+O:\Placement\C - Sharp\Task3\Task3\obj\Debug\net10.0\Task3.pdb
+O:\Placement\C - Sharp\Task3\Task3\obj\Debug\net10.0\Task3.genruntimeconfig.cache
+O:\Placement\C - Sharp\Task3\Task3\obj\Debug\net10.0\ref\Task3.dll

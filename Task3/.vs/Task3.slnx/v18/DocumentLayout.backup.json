@@ -1,14 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "O:\\.NET\\Task3\\",
+  "WorkspaceRootPath": "O:\\Placement\\C - Sharp\\Task3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{958758D0-8793-4F42-9F0C-158BC2346E8C}|Task3\\Task3.csproj|o:\\.net\\task3\\task3\\task3.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{958758D0-8793-4F42-9F0C-158BC2346E8C}|Task3\\Task3.csproj|solutionrelative:task3\\task3.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{A36E21AC-5E27-824E-ADCA-0E00BD5C010A}|Task3\\Task3.csproj|o:\\placement\\c - sharp\\task3\\task3\\task3.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{A36E21AC-5E27-824E-ADCA-0E00BD5C010A}|Task3\\Task3.csproj|solutionrelative:task3\\task3.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{958758D0-8793-4F42-9F0C-158BC2346E8C}|Task3\\Task3.csproj|o:\\.net\\task3\\task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{958758D0-8793-4F42-9F0C-158BC2346E8C}|Task3\\Task3.csproj|solutionrelative:task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A36E21AC-5E27-824E-ADCA-0E00BD5C010A}|Task3\\Task3.csproj|o:\\placement\\c - sharp\\task3\\task3\\studentmarksreportgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A36E21AC-5E27-824E-ADCA-0E00BD5C010A}|Task3\\Task3.csproj|solutionrelative:task3\\studentmarksreportgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A36E21AC-5E27-824E-ADCA-0E00BD5C010A}|Task3\\Task3.csproj|o:\\placement\\c - sharp\\task3\\task3\\storesalestrendanalysis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A36E21AC-5E27-824E-ADCA-0E00BD5C010A}|Task3\\Task3.csproj|solutionrelative:task3\\storesalestrendanalysis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,25 +28,38 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Task3",
-              "DocumentMoniker": "O:\\.NET\\Task3\\Task3\\Task3.csproj",
+              "DocumentMoniker": "O:\\Placement\\C - Sharp\\Task3\\Task3\\Task3.csproj",
               "RelativeDocumentMoniker": "Task3\\Task3.csproj",
-              "ToolTip": "O:\\.NET\\Task3\\Task3\\Task3.csproj",
+              "ToolTip": "O:\\Placement\\C - Sharp\\Task3\\Task3\\Task3.csproj",
               "RelativeToolTip": "Task3\\Task3.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-12-09T08:23:14.842Z",
+              "WhenOpened": "2025-12-12T05:49:28.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StoreSalesTrendAnalysis.cs",
+              "DocumentMoniker": "O:\\Placement\\C - Sharp\\Task3\\Task3\\StoreSalesTrendAnalysis.cs",
+              "RelativeDocumentMoniker": "Task3\\StoreSalesTrendAnalysis.cs",
+              "ToolTip": "O:\\Placement\\C - Sharp\\Task3\\Task3\\StoreSalesTrendAnalysis.cs",
+              "RelativeToolTip": "Task3\\StoreSalesTrendAnalysis.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T05:47:12.099Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "O:\\.NET\\Task3\\Task3\\Program.cs",
-              "RelativeDocumentMoniker": "Task3\\Program.cs",
-              "ToolTip": "O:\\.NET\\Task3\\Task3\\Program.cs",
-              "RelativeToolTip": "Task3\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Title": "StudentMarksReportGenerator.cs",
+              "DocumentMoniker": "O:\\Placement\\C - Sharp\\Task3\\Task3\\StudentMarksReportGenerator.cs",
+              "RelativeDocumentMoniker": "Task3\\StudentMarksReportGenerator.cs",
+              "ToolTip": "O:\\Placement\\C - Sharp\\Task3\\Task3\\StudentMarksReportGenerator.cs",
+              "RelativeToolTip": "Task3\\StudentMarksReportGenerator.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAiwEIAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-09T08:22:41.195Z",
+              "WhenOpened": "2025-12-12T05:36:02.391Z",
               "EditorCaption": ""
             }
           ]
