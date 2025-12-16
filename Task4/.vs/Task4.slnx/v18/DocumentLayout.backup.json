@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "O:\\Placement\\C - Sharp\\Task4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A0ED4F75-1478-487E-9AC6-AB104D92ADF5}|Task4\\Task4.csproj|o:\\placement\\c - sharp\\task4\\task4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0ED4F75-1478-487E-9AC6-AB104D92ADF5}|Task4\\Task4.csproj|solutionrelative:task4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{44656E01-CD2D-C68B-B81C-1D2A76926419}|Task4\\Task4.csproj|o:\\placement\\c - sharp\\task4\\task4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44656E01-CD2D-C68B-B81C-1D2A76926419}|Task4\\Task4.csproj|solutionrelative:task4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,7 +24,7 @@
               "RelativeDocumentMoniker": "Task4\\Program.cs",
               "ToolTip": "O:\\Placement\\C - Sharp\\Task4\\Task4\\Program.cs",
               "RelativeToolTip": "Task4\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-09T08:25:56.912Z",
               "EditorCaption": ""
